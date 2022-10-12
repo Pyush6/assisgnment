@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+  }
+  
+  img {
+    width: 40%;
+  }
+  
+  h1,
+  h2 {
+    color: dodgerblue;
+  }
+  nav {
+    width: 40%;
+    margin: 0 auto;
+  }
+  
+  ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+  }
+  ol {
+    text-align: left;
+  }
+  a {
+    margin: 2px 40px 2px;
+    text-decoration: none;
+    color: rgb(248, 91, 91);
+    font-weight: bold;
+  }
+  a:hover {
+    color: rgb(230, 165, 25);
+    text-decoration: underline;
+  }
+  
+  .footer {
+    color: rgb(161, 163, 161);
+  }
